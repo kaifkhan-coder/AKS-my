@@ -1,0 +1,6 @@
+{
+  "name": "Kirana Shop Manager",
+  "description": "Kirana store inventory, customer credit tracking, automated billing, multi-store management, and KiranaSync cloud backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
